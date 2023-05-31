@@ -11,6 +11,7 @@ Authors
 *Keiquan Blackmon
 
 Screenshot
-<!-- ![This screenshot is of the page the user is presented with when accessing the password generator".](./assets/images/screenshot.png) -->
+![This screenshot is of the page the user is presented with when accessing the password generator".](./Assets/images/schedulerscreenshot.png)
 
 Repo:
+https://github.com/Yepitskeys/WorkDayScheduler
